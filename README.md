@@ -5,7 +5,7 @@ type: code along
 resources: 0
 ---
 
-## Code Along Exercise 13 ~ 9min
+## Code Along Exercise 13 ~ 25min
 
 To get the most up to date starting code used for this exercise in terminal type ♥ `git reset --hard step-6`
 
